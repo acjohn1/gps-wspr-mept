@@ -66,7 +66,7 @@ JTEncode jtencode;
 
 // Global variables
 unsigned long freq;
-char call[] = "AAAA";     //CHANGE AAAA TO YOUR CALLSIGN!!
+char call[] = "KG4VHV";     //CHANGE AAAA TO YOUR CALLSIGN!!
 uint8_t dbm = 10;         //CHANGE for your power setting. 10dbm = 0.01W
 uint8_t tx_buffer[255];
 enum mode cur_mode = DEFAULT_MODE;
